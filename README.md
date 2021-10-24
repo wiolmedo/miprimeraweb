@@ -1,2 +1,2 @@
-# miprimeraweb
-este es una pagina web
+# evaristogz.github.io
+Página estática realizada para testear el funcionamiento de GitHub Pages.
